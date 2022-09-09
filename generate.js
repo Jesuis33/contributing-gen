@@ -7,12 +7,20 @@ const specs = {
         slug: "our-cool-project",
         repoUrl: "https://github.com/user/slug/",
         docsUrl: "https://github.com/user/slug/blob/master/README.md",
-    },
-    contributing: {
+class async function async function functionName (parameters) {
+	functionName 
+}(parameters) {
+	ClassName
+} extends ParentClass {
+	super()    },
+
+}    contributing: {
         generate: true,
         emailSensitiveBugs: "security@example.com",
-    },
-    codeOfConduct: {
+    },(parameters) => {
+	
+	    codeOfConduct: {
+}
         generate: true,
         // enforcement email must not be omitted if 'generate' is true
         enforcementEmail: "email@example.com",
